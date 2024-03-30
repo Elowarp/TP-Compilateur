@@ -1,0 +1,7 @@
+s := 1;
+i := 1;
+
+TantQue < i 6 Faire
+s := * s i;
+i := + i 1
+FinTq
